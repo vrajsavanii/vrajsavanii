@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vrajsavanii" target="blank"><img src="https://img.shields.io/twitter/follow/vrajsavanii?logo=twitter&style=for-the-badge" alt="vrajsavanii" /></a> </p>
 
-- 🚀 Something I’m working on **DSA and Development**
-
-- 📚 Exploring and learning about **DevOps, Ethical Hacking, Profitable Businesses**
+- 📚 Exploring and learning about **Quant Finance & AI Enthusiast | Forex Trader | Building Tech + Business Skills in SaaS & Financial Markets**
 
 - 📩 Ways to connect with me **vrajsavanii@gmail.com**
 
